@@ -17,7 +17,7 @@ def compare(med_name):
     
 c1,c2= st.columns(2)
 c1.image("e_pharmacy.png")
-c2.header("E-pharmacy price comparision system")
+c2.header("E-pharmacy price comparison system")
 
 # """------------------------------------------------------------"""
 
