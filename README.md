@@ -2,7 +2,7 @@ Overview:-
 Built a web app to compare medicine prices across platforms using SerpAPI and Streamlit.
 
 Tools:-
-Python, Streamlit, Pandas, Matplotlib, SerpAPI
+Python, Streamlit, Pandas, Matplotlib, SerpAPI, VS Code
 
 Key Points:-
 Medicine search and price comparison
