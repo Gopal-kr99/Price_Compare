@@ -12,6 +12,7 @@ Visualized results using bar and pie charts
 
 Output:-  
 e_pharmacy screensort 1.png
+
 e_pharmacy screensort 2.png
 
 Streamlit app link:- "https://pricecompare-gopal.streamlit.app/"
